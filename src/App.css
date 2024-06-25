@@ -1,0 +1,26 @@
+body {
+  background-color: #f5f1e5;
+  font-family: 'Sansita Swashed', cursive;
+  color: #181d31;
+}
+
+button {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+.on {
+  color: gold;
+}
+.off {
+  color: #ccc;
+}
+
+.btn-close {
+  background-color: #f5f1e5;
+  opacity: 0.9;
+}
