@@ -1,6 +1,6 @@
 # BookNook Client
 
-BookNook is an app that is primarily made for book lovers. The main function of the app is to complie a reading list and share books reviews with other users. This portion is the client side of the application, the server side can be found [here]([https://github.com/TaniaOlivas/Server-BookNook]). It has not been fully deployed so you will need to run both locally.
+BookNook is an app that is primarily made for book lovers. The main function of the app is to complie a reading list and share books reviews with other users. This portion is the client side of the application, the server side can be found [here](https://github.com/TaniaOlivas/Server-BookNook). It has not been fully deployed so you will need to run both locally.
 
 ## Description
 
